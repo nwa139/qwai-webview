@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Qwai Project",
+    "description": "",
+    "home_page_url": "https://www.theqwaiproject.online",
+    "feed_url": "https://www.theqwaiproject.online/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nwa139"
+    },
+    "items": [
+    ]
+}
